@@ -1,0 +1,28 @@
+{
+  "name": "gulp-hole-io",
+  "version": "0.3.1",
+  "private": true,
+  "description": "Pothole Party.io: buraco que engole uma cidade de brinquedo 3D, rodadas de 2 min contra bots locais (Poki, CrazyGames e californiagames.io).",
+  "type": "module",
+  "config": {
+    "porta": 5510
+  },
+  "kit": {
+    "trocas": {},
+    "ids": {
+      "y8": {
+        "appId": "6b010630d3fca2df3839253d",
+        "gameId": "294589"
+      }
+    }
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "servir": "node tools/servir.mjs",
+    "lan": "node tools/servir.mjs --lan",
+    "empacotar": "npm test && node tools/empacotar.mjs --alvo=todos",
+    "verificar": "node tools/verificar-build.mjs --alvo=todos",
+    "grok": "node tools/grok.mjs",
+    "sprite": "node tools/sprite.mjs"
+  }
+}

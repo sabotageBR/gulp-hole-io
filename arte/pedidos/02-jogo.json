@@ -1,0 +1,138 @@
+[
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "cid-props",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate small toy street props, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) an orange traffic cone with a white stripe, (2) a red fire hydrant, (3) a green round trash bin with a lid, (4) a sky-blue wooden park bench, (5) a coral mailbox on a post with no writing, (6) a terracotta flower pot with pink flowers, (7) a sunflower-yellow street lamp post, (8) a round green bush, (9) a mint kick scooter. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "pessoas",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate chunky toy people figures standing upright, full body, cute simple painted faces with dot eyes, different hair and clothes, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) a boy in a yellow shirt and blue pants, (2) a girl in a coral dress, (3) a man in a mint jacket, (4) a woman in a lilac sweater, (5) a kid with a red cap, (6) a grandpa with a cane in a brown vest, (7) a jogger in sky-blue sportswear, (8) a chef in white with a tall hat, (9) a girl with a yellow raincoat. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "cid-veic",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate chunky toy vehicles, all pointing to the left side of the image, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) a red hatchback car, (2) a blue sedan car, (3) a yellow taxi car with no sign and no writing, (4) a mint camper van, (5) a coral pickup truck, (6) a lilac tiny round city car, (7) a long sky-blue city bus, (8) an orange box delivery truck, (9) a red fire engine with a ladder. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "cid-nat",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate toy park and street objects, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) a round green tree with a brown trunk, (2) a dark green pine tree, (3) a tall slim poplar tree, (4) a round stone fountain with blue water, (5) a bus stop shelter with a bench and no writing, (6) a red telephone booth with no writing, (7) a small newspaper kiosk with blank colored panels and no writing, (8) a playground slide, (9) a hot dog cart with a striped umbrella and no writing. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "cid-fach",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate flat front-view wall facades of toy town buildings, each one a straight-on orthographic elevation with no perspective, no roof and no sky, a clean rectangle of wall from the ground line to the top edge with doors and windows, evenly spaced, wide empty space between them, in reading order: (1) a cream cottage wall with a blue arched door and two round-top windows, (2) a mint cottage wall with a red door and two windows, (3) a lilac cottage wall with a yellow door and a round window, (4) a shop front with a striped coral awning and a big display window, (5) a shop front with a striped yellow awning and a big window, (6) a cafe front with a sky-blue awning and a glass door, (7) a coral three-storey apartment building front, taller than wide, (8) a sky-blue three-storey apartment building front, taller than wide, (9) a cream six-storey tower front, much taller than wide. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "pra-props",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate small toy beach props, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) an open striped coral and white beach umbrella standing on its pole, (2) a colorful beach ball, (3) a yellow sand bucket with a spade, (4) a small sandcastle, (5) a mint surfboard standing upright, (6) a striped wooden deck chair, (7) a red toy crab, (8) an orange starfish, (9) a sky-blue cooler box. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "pra-med",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate toy beach objects, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) a white lifeguard chair tower with a red float, (2) a palm tree with coconuts, (3) an ice cream cart with an umbrella and no writing, (4) a small sailboat resting on sand, pointing left, (5) a wooden rowboat pointing left, (6) a yellow jet ski pointing left, (7) a coral beach buggy car pointing left, (8) a striped inflatable swim ring, (9) a mint kayak pointing left. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "pra-fach",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate flat front-view wall facades of toy beach buildings, each one a straight-on orthographic elevation with no perspective, no roof and no sky, a clean rectangle of wall from the ground line to the top edge with doors and windows, evenly spaced, wide empty space between them, in reading order: (1) a beach hut wall with mint and white vertical stripes and a door, (2) a beach hut wall with coral and white stripes and a door, (3) a beach hut wall with yellow and white stripes and a door, (4) a beach kiosk front with a straw awning and a counter, (5) a surf shop front with surfboards by the door and no writing, (6) an ice cream parlor front with a pink awning, (7) a pastel coral three-storey beach hotel front with balconies, taller than wide, (8) a pastel sky-blue three-storey beach hotel front with balconies, taller than wide, (9) a cream six-storey beach hotel tower front with balconies, much taller than wide. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "doc-props",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate small toy candy props, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) a wrapped round candy, (2) a swirl lollipop on a stick, (3) a sugar-coated gumdrop, (4) a donut with pink frosting and sprinkles, (5) a cupcake with swirled frosting, (6) a pastel macaron, (7) a red and white candy cane, (8) a gummy bear, (9) an ice cream cone with two scoops. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "doc-med",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate bigger toy candy objects, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) a lollipop tree with a big rainbow swirl top, (2) a slice of layered cake, (3) a pastel layered birthday cake with plain candles, (4) a cotton candy tree, (5) a chocolate fountain, (6) a candy car made of sweets pointing left, (7) a candy train engine pointing left, (8) a giant donut with frosting standing on its edge, (9) a gingerbread man standing. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "doc-fach",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate flat front-view wall facades of toy candy buildings, each one a straight-on orthographic elevation with no perspective, no roof and no sky, a clean rectangle of wall from the ground line to the top edge with doors and windows, evenly spaced, wide empty space between them, in reading order: (1) a gingerbread house wall with icing trim and a door, (2) a cupcake-colored house wall with a door and windows, (3) a candy house wall decorated with gumdrops and a door, (4) a candy shop front with a striped pink awning and no writing, (5) an ice cream parlor front with a scalloped awning, (6) a waffle-textured building front with a door, (7) a three-tier cake building front, taller than wide, (8) a chocolate bar building front with windows and no writing, taller than wide, (9) a tall pastel candy tower front, much taller than wide. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "texturas",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate square seamless tileable texture swatches of toy diorama ground materials, each one seen straight from above, flat, evenly lit, filling its square completely, evenly spaced with wide empty gaps between the squares, in reading order: (1) smooth blue-gray toy asphalt, (2) cream square sidewalk pavers, (3) soft green toy grass, (4) warm golden beach sand, (5) pale smooth beach sand, (6) light wooden boardwalk planks, (7) pink frosting icing with tiny sprinkles, (8) square chocolate bar tiles with no writing, (9) golden biscuit wafer grid. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "telhados",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate square seamless tileable texture swatches of toy diorama roofs and surfaces, each one seen straight from above, flat, evenly lit, filling its square completely, evenly spaced with wide empty gaps between the squares, in reading order: (1) red clay roof tiles, (2) purple roof tiles, (3) flat light gray rooftop, (4) golden straw thatch, (5) flat sandy beige rooftop tiles, (6) pink icing with colorful sprinkles, (7) shallow turquoise sea water with little waves, (8) glossy caramel syrup, (9) sunflower-yellow roof tiles. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "gigantes",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw 3 separate giant toy landmarks in one row, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image: (1) a tall wind-up toy robot in sky blue and coral with a key on its back, (2) a big inflatable pink flamingo pool float, (3) a huge pastel layered birthday cake with plain candles. Each whole and centered, never touching another or the border, isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "skins-1",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate square seamless tileable texture swatches of decorative patterns for the glossy rim of a toy hole, each one seen straight from above, flat, evenly lit, filling its square completely, evenly spaced with wide empty gaps between the squares, in reading order: (1) sunflower yellow glossy plastic with white polka dots, (2) mint and white candy stripes, (3) coral with little white hearts, (4) sky blue with white clouds, (5) lilac with yellow stars, (6) red and white checkers, (7) watermelon pink with black seeds, (8) chocolate with rainbow sprinkles, (9) green with tiny daisies. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "skins-2",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate square seamless tileable texture swatches of decorative patterns for the glossy rim of a toy hole, each one seen straight from above, flat, evenly lit, filling its square completely, evenly spaced with wide empty gaps between the squares, in reading order: (1) glowing orange lava cracks, (2) icy blue frost crystals, (3) golden shiny metal with rivets, (4) zebra black and white stripes, (5) blue ocean waves, (6) pink frosting with sprinkles, (7) dark galaxy purple with tiny stars, (8) orange and black tiger stripes, (9) rainbow bands. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "id": "icones",
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate small toy game icons, evenly spaced, wide empty space between them, each seen from the front, in reading order: (1) a golden crown, (2) a golden trophy cup, (3) a yellow star, (4) a coral gift box with a mint ribbon, (5) a silver padlock, (6) a mint stopwatch with a blank face and no numbers, (7) a red boxing glove, (8) a round red and white target, (9) a gold medal with a blue ribbon. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ }
+]

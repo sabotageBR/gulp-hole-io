@@ -1,0 +1,9 @@
+[
+  { "nome": "cidade", "tamanho": "paisagem", "params": "auto&tamanho=2.4&mapa=cidade&semente=31", "esperar": 7000 },
+  { "nome": "praia", "tamanho": "paisagem", "params": "auto&tamanho=2.2&rodada=1&semente=8", "esperar": 7000 },
+  { "nome": "doceria", "tamanho": "paisagem", "params": "auto&tamanho=2.4&mapa=doceria&rodada=4&semente=9", "esperar": 7000 },
+  { "nome": "comeco", "tamanho": "retrato", "params": "novo&mapa=cidade&semente=4", "esperar": 2000 },
+  { "nome": "solo", "tamanho": "retrato", "params": "auto&modo=solo&mapa=doceria&rodada=3&tamanho=1.6&semente=5", "esperar": 7000 },
+  { "nome": "fim", "tamanho": "paisagem", "params": "auto&mapa=cidade&semente=5&rodada=1", "js": "__jogo.avancar(50); __jogo.terminarRodada()", "esperar": 3500 },
+  { "nome": "batalha", "tamanho": "retrato", "params": "auto&modo=batalha&mapa=cidade&rodada=5&tamanho=2&semente=6", "esperar": 7000 }
+]

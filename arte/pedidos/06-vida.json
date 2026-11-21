@@ -1,0 +1,173 @@
+[
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-menino",
+  "imagens": [
+   "arte/refs/pessoa-01.jpg"
+  ],
+  "prompt": "Using the reference image as the exact character design (same face, hair, clothes, colors, proportions and toy style), draw a 3x3 grid of 9 separate full-body poses of this toy boy in a yellow shirt and blue pants, every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-menina",
+  "imagens": [
+   "arte/refs/pessoa-02.jpg"
+  ],
+  "prompt": "Using the reference image as the exact character design (same face, hair, clothes, colors, proportions and toy style), draw a 3x3 grid of 9 separate full-body poses of this toy girl in a coral dress with a red bow, every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-homem",
+  "imagens": [
+   "arte/refs/pessoa-03.jpg"
+  ],
+  "prompt": "Using the reference image as the exact character design (same face, hair, clothes, colors, proportions and toy style), draw a 3x3 grid of 9 separate full-body poses of this toy man in a mint jacket, every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-mulher",
+  "imagens": [
+   "arte/refs/pessoa-04.jpg"
+  ],
+  "prompt": "Using the reference image as the exact character design (same face, hair, clothes, colors, proportions and toy style), draw a 3x3 grid of 9 separate full-body poses of this toy woman in a lilac sweater, every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-vovo",
+  "imagens": [
+   "arte/refs/pessoa-06.jpg"
+  ],
+  "prompt": "Using the reference image as the exact character design (same face, hair, clothes, colors, proportions and toy style), draw a 3x3 grid of 9 separate full-body poses of this toy grandpa with a white beard and a brown vest (no cane), every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-chef",
+  "imagens": [
+   "arte/refs/pessoa-08.jpg"
+  ],
+  "prompt": "Using the reference image as the exact character design (same face, hair, clothes, colors, proportions and toy style), draw a 3x3 grid of 9 separate full-body poses of this toy chef in white with a tall chef hat, every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-banhista",
+  "imagens": [
+   "arte/refs/pessoa-05.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy figure style, proportions, face style and lighting, design a new character: a cheerful toy kid in a sky-blue swimsuit with an orange swim ring around the waist and swim goggles on the forehead. Draw a 3x3 grid of 9 separate full-body poses of this same new character, every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-turista",
+  "imagens": [
+   "arte/refs/pessoa-04.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy figure style, proportions, face style and lighting, design a new character: a toy woman tourist in a coral sundress with a big straw sun hat and sunglasses pushed up on her hat. Draw a 3x3 grid of 9 separate full-body poses of this same new character, every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-ursinho",
+  "imagens": [
+   "arte/refs/ursinho.jpg"
+  ],
+  "prompt": "Using the reference image as the exact character design (same face, hair, clothes, colors, proportions and toy style), draw a 3x3 grid of 9 separate full-body poses of this translucent red gummy bear, now with short legs and arms so it can walk and run like a little person, every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-biscoito",
+  "imagens": [
+   "arte/refs/biscoito.jpg"
+  ],
+  "prompt": "Using the reference image as the exact character design (same face, hair, clothes, colors, proportions and toy style), draw a 3x3 grid of 9 separate full-body poses of this gingerbread man cookie with white icing details, every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "cid-marcos",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 2x2 grid of 4 separate big toy town landmarks, evenly spaced, wide empty space between them, each one whole, seen from the same high three-quarter top-down camera as the reference image, in reading order: (1) a cream town hall with a tall clock tower, the clock face blank with no numbers, (2) a small ferris wheel with colorful cabins, (3) a sky-blue water tower on four legs, (4) a red fire station with two big garage doors and a little tower. Each landmark whole and centered in its cell, never touching another one or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "pra-marcos",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 2x2 grid of 4 separate big toy beach landmarks, evenly spaced, wide empty space between them, each one whole, seen from the same high three-quarter top-down camera as the reference image, in reading order: (1) a red and white striped lighthouse on a little rock, (2) a giant sandcastle with flags and no writing, (3) a wooden beach bar with a straw roof and stools, (4) a short wooden pier with a little fishing hut. Each landmark whole and centered in its cell, never touching another one or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "doc-marcos",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 2x2 grid of 4 separate big toy candy land landmarks, evenly spaced, wide empty space between them, each one whole, seen from the same high three-quarter top-down camera as the reference image, in reading order: (1) a pink candy castle with lollipop towers, (2) a tall gumball machine tower full of colorful gumballs, (3) a chocolate factory with striped candy cane chimneys and no writing, (4) a giant ice cream cone tower with three scoops. Each landmark whole and centered in its cell, never touching another one or the image border, isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "cid-fach2",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate flat front-view wall facades of toy town buildings, each one a straight-on orthographic elevation with no perspective, a clean flat rectangle of wall from the ground line to a straight top edge, with doors and windows, absolutely no roof, no gable, no chimney and nothing above the top edge, no sky, evenly spaced, wide empty space between them, in reading order: (1) a red brick house wall with white window frames and a green door, (2) a sunflower-yellow house wall with mint shutters and a blue door, (3) a sky-blue house wall with a white porch door and flower boxes, (4) a bakery front with a striped cream and coral awning and a window full of bread, no writing, (5) a flower shop front with flower boxes and buckets of flowers, no writing, (6) a toy shop front with round windows and a lilac awning, no writing, (7) a red brick four-storey apartment building front with small balconies, taller than wide, (8) a mint office building front with a neat grid of windows, taller than wide, (9) a lilac four-storey apartment building front with bay windows, taller than wide. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "pra-fach2",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate flat front-view wall facades of toy beach town buildings, each one a straight-on orthographic elevation with no perspective, a clean flat rectangle of wall from the ground line to a straight top edge, with doors and windows, absolutely no roof, no gable, no chimney and nothing above the top edge, no sky, evenly spaced, wide empty space between them, in reading order: (1) a white beach cottage wall with sky-blue shutters and a blue door, (2) a yellow fisherman house wall with a round porthole window and a red door, (3) a coral beach bungalow wall with porthole windows and a mint door, (4) a seafood shack front with fishing nets and a counter, no writing, (5) a beach cafe front with a straw awning and small round tables, no writing, (6) a surf rental shop front with a rack of colorful surfboards, no writing, (7) a white and sky-blue striped four-storey hotel front with balconies, taller than wide, (8) a pastel mint apartment front with round balconies, taller than wide, (9) a sandy beige five-storey hotel front with arched windows, taller than wide. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "doc-fach2",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate flat front-view wall facades of toy candy town buildings, each one a straight-on orthographic elevation with no perspective, a clean flat rectangle of wall from the ground line to a straight top edge, with doors and windows, absolutely no roof, no gable, no chimney and nothing above the top edge, no sky, evenly spaced, wide empty space between them, in reading order: (1) a mint candy cottage wall with a candy cane door frame, (2) a chocolate brick house wall with white frosting window frames, (3) a lemon yellow house wall with gumdrop trims and a pink door, (4) a candy bakery front with a cream awning and cakes in the window, no writing, (5) a jelly bean shop front with big jars in the window, no writing, (6) a cotton candy shop front with a pink and blue awning, no writing, (7) a waffle-textured four-storey building front with windows, taller than wide, (8) a pink and white striped candy apartment front, taller than wide, (9) a pastel blue frosting tower front with round windows, taller than wide. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "cid-props2",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate small toy town street props, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) a traffic light on a pole with no writing, (2) a parked mint bicycle, (3) a wooden planter box with red flowers, (4) a round topiary tree in a pot, (5) a double street lamp, (6) a striped orange and white road barrier, (7) a sky-blue newspaper box with no writing, (8) a wooden picnic table, (9) a small round green bush with pink flowers. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "pra-props2",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate small toy beach props, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) a white post with an orange lifebuoy, (2) a small beach volleyball net, (3) a wooden outdoor beach shower, (4) a tiki torch, (5) a white seagull standing, (6) a pair of flip flops and a towel, (7) a small pile of seashells, (8) a striped beach windbreak, (9) a little palm tree in sand. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ },
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "doc-props2",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Using the reference image only for its toy art style, colors and lighting, draw a 3x3 grid of 9 separate small toy candy land props, evenly spaced, wide empty space between them, each seen from the same high three-quarter top-down camera as the reference image, facing left, in reading order: (1) a gumdrop bush, (2) a candy cane street lamp, (3) a pink marshmallow bench, (4) a chocolate bar bench with no writing, (5) a jelly bean pile, (6) a stack of cookies, (7) a lollipop flower, (8) a cream puff with a cherry on top, (9) a small mint ice cream cart with no writing. Each item whole and centered in its cell, never touching another item or the image border, isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ }
+]

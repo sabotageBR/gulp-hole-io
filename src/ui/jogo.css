@@ -1,0 +1,128 @@
+/* Pothole Party.io: HUD, painel entre rodadas e skins (por cima do kit.css). Paleta da biblia de arte. */
+:root {
+  --ceu: #5ec8ff; --menta: #6fe3b4; --coral: #ff6f61; --girassol: #ffd23f; --lilas: #b49cff; --creme: #fff3dc;
+  --buraco: #14121f;
+  --kit-forte: #ff8a1f;
+  --kit-painel: #2b2247e6;
+}
+html, body { background: #bfe6ff; }
+#carregando { background: #1d1733 url('../arte/carga.webp') center / cover no-repeat; }
+#carregando::before { content: ''; position: absolute; inset: 0; background: linear-gradient(#0000 30%, #1d1733cc 80%); }
+.carga-caixa { position: relative; display: grid; justify-items: center; align-self: end; margin-bottom: 14vh; }
+#carregando .logo { font-size: clamp(34px, 7vmin, 64px); color: #fff; text-shadow: 0 4px 0 var(--buraco), 0 8px 18px #0008; letter-spacing: .5px; }
+#carregando .logo span { color: var(--girassol); }
+#carregando .barra i { background: var(--girassol); }
+
+.contorno { text-shadow: 0 2px 0 var(--buraco), 0 0 6px #0007; }
+
+/* topo: relogio, barra do Solo, vivos da Batalha */
+.topo { position: absolute; left: 50%; top: calc(10px + env(safe-area-inset-top)); transform: translateX(-50%); display: grid; justify-items: center; gap: 6px; pointer-events: none !important; }
+.relogio { font-size: 28px; background: #0006; padding: 4px 16px; border-radius: 14px; min-width: 76px; text-align: center; }
+.relogio.acabando { background: var(--coral); animation: pulsar .5s ease-in-out infinite alternate; }
+@keyframes pulsar { to { transform: scale(1.08); } }
+.barra-solo { position: relative; width: min(56vw, 300px); height: 22px; border-radius: 11px; background: #0006; overflow: hidden; }
+.barra-solo i { position: absolute; inset: 0 auto 0 0; width: 0; background: linear-gradient(90deg, var(--menta), var(--girassol)); transition: width .2s; }
+.barra-solo span { position: relative; display: block; text-align: center; font-size: 15px; line-height: 22px; text-shadow: 0 1px 0 #0008; }
+.vivos { font-size: 16px; background: #0006; padding: 2px 12px; border-radius: 10px; }
+
+/* placar ao vivo */
+.placar { position: absolute; left: calc(10px + env(safe-area-inset-left)); top: calc(10px + env(safe-area-inset-top)); margin: 0; padding: 6px 8px; list-style: none;
+  background: #0005; border-radius: 12px; font-size: 14px; min-width: 132px; pointer-events: none !important; }
+.placar li { display: flex; gap: 6px; align-items: center; line-height: 20px; white-space: nowrap; }
+.placar li b { width: 16px; text-align: right; opacity: .8; }
+.placar li .nome { flex: 1; overflow: hidden; text-overflow: ellipsis; max-width: 96px; }
+.placar li .pts { opacity: .9; font-size: 13px; }
+.placar li.eu { color: var(--girassol); }
+.placar li img { width: 16px; height: 16px; }
+@media (max-width: 520px) { .placar { font-size: 12px; min-width: 112px; } .placar li .nome { max-width: 70px; } .relogio { font-size: 22px; } }
+
+/* rotulos dos buracos */
+#rotulos { position: absolute; inset: 0; pointer-events: none !important; overflow: hidden; }
+.rotulo { position: absolute; left: 0; top: 0; transform: translate(-50%, -100%); font-size: 14px; white-space: nowrap; color: #fff;
+  text-shadow: 0 2px 0 var(--buraco), 0 0 4px #000a; display: flex; align-items: center; gap: 2px; will-change: transform; }
+.rotulo.eu { color: var(--girassol); font-size: 16px; }
+.rotulo img { width: 22px; height: 22px; margin-bottom: 2px; }
+.rotulo[hidden] { display: none; }
+
+/* aviso no meio de cima */
+.aviso { position: absolute; left: 50%; top: 24%; transform: translate(-50%, -50%); font-size: clamp(22px, 5vmin, 40px); color: #fff; pointer-events: none !important;
+  text-shadow: 0 3px 0 var(--buraco), 0 6px 14px #0008; opacity: 0; white-space: nowrap; }
+.aviso.mostra { animation: aviso 1.6s ease-out forwards; }
+.aviso.longo.mostra { animation-duration: 3.3s; }
+.aviso small { display: block; margin: 8px auto 0; max-width: min(86vw, 640px); font-size: clamp(15px, 3.2vmin, 22px); line-height: 1.25;
+  white-space: normal; text-align: center; }
+@keyframes aviso { 0% { opacity: 0; transform: translate(-50%, -30%) scale(.7); } 15% { opacity: 1; transform: translate(-50%, -50%) scale(1.08); } 25% { transform: translate(-50%, -50%) scale(1); } 80% { opacity: 1; } 100% { opacity: 0; transform: translate(-50%, -70%); } }
+
+/* seta do gigante na borda da tela */
+.seta { position: absolute; left: 0; top: 0; width: 54px; height: 54px; margin: -27px 0 0 -27px; pointer-events: none !important; border-radius: 50%;
+  background: #fffe; box-shadow: 0 3px 0 var(--buraco); display: grid; place-items: center; animation: pulsar .5s ease-in-out infinite alternate; }
+.seta img { width: 38px; height: 38px; }
+.seta::after { content: ''; position: absolute; left: 50%; top: 50%; width: 0; height: 0; border: 9px solid transparent; border-left: 14px solid var(--coral);
+  transform: rotate(var(--ang, 0deg)) translate(30px, 0) translate(0, -50%); transform-origin: 0 0; }
+.seta[hidden] { display: none; }
+
+/* joystick do toque */
+.joy { position: absolute; left: 0; top: 0; width: 120px; height: 120px; margin: -60px 0 0 -60px; border-radius: 50%; border: 3px solid #fff8; background: #fff2; pointer-events: none !important; }
+.joy i { position: absolute; left: 50%; top: 50%; width: 46px; height: 46px; margin: -23px 0 0 -23px; border-radius: 50%; background: #fffc; box-shadow: 0 3px 0 #0004; }
+.joy[hidden] { display: none; }
+
+/* painel entre rodadas */
+.fim { background: #0006; }
+.painel-fim { width: min(92vw, 460px); max-height: 94vh; overflow: auto; gap: 10px; padding: 18px; }
+.fim-cabeca { display: flex; gap: 12px; align-items: center; }
+.fim-cabeca img { width: 64px; height: 64px; }
+.fim-cabeca h2 { font-size: 28px; margin: 0; }
+.fim-placar { margin: 0; padding: 0; list-style: none; display: grid; gap: 3px; font-size: 16px; }
+.fim-placar li { display: flex; gap: 8px; padding: 3px 10px; border-radius: 10px; background: #ffffff12; }
+.fim-placar li b { width: 22px; }
+.fim-placar li .nome { flex: 1; }
+.fim-placar li.eu { background: #ffd23f33; color: var(--girassol); }
+.xp { display: flex; align-items: center; gap: 8px; font-size: 15px; }
+.xp-barra { flex: 1; height: 14px; border-radius: 7px; background: #0006; overflow: hidden; }
+.xp-barra i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--ceu), var(--menta)); transition: width .8s ease-out; }
+.novo, .desafio { display: flex; align-items: center; gap: 10px; padding: 8px 12px; border-radius: 14px; background: #ffd23f2e; font-size: 16px; }
+.novo img, .desafio img { width: 40px; height: 40px; }
+.novo[hidden], .desafio[hidden] { display: none; }
+.desafio { background: #6fe3b42a; }
+.desafio.feito { opacity: .7; }
+.escolhas { display: grid; gap: 6px; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; justify-content: center; }
+.chip { font: inherit; font-size: 14px; color: #fff; border: 2px solid #fff4; background: #0003; border-radius: 999px; padding: 6px 12px; cursor: pointer; }
+.chip[aria-checked="true"] { background: var(--girassol); color: var(--buraco); border-color: var(--girassol); }
+.chip:disabled { opacity: .45; cursor: default; }
+.fim-botoes { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.fim-botoes .forte { grid-column: 1 / -1; font-size: 24px; padding: 16px; }
+.fim-botoes .botao { min-width: 0; }
+.botao-skin { background: #ffffff22; display: inline-flex; align-items: center; justify-content: center; gap: 8px; }
+.fim-botoes.so-gratis #btSkins { grid-column: 1 / -1; }
+.aro { width: 28px; height: 28px; border-radius: 50%; background-size: cover; display: inline-block; position: relative; flex: none;
+  -webkit-mask: radial-gradient(circle, transparent 46%, #000 48%); mask: radial-gradient(circle, transparent 46%, #000 48%); }
+
+/* skins */
+.painel-skins { width: min(92vw, 460px); max-height: 92vh; }
+.grade-skins { display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr)); gap: 10px; max-height: 60vh; overflow: auto; padding: 4px; }
+.skin { font: inherit; color: #fff; border: 3px solid transparent; border-radius: 16px; background: #0003; padding: 8px 4px 4px; cursor: pointer; display: grid; justify-items: center; gap: 4px; font-size: 12px; position: relative; }
+.skin .aro { width: 56px; height: 56px; }
+.skin .miolo { position: absolute; top: 8px; left: 50%; width: 30px; height: 30px; margin: 13px 0 0 -15px; border-radius: 50%; background: radial-gradient(#06050b, #2c2442); }
+.skin[aria-pressed="true"] { border-color: var(--girassol); }
+.skin:disabled { cursor: default; }
+.skin:disabled .aro { filter: grayscale(1) brightness(.5); }
+.skin .cadeado { position: absolute; top: 22px; width: 26px; height: 26px; }
+
+/* telas baixas (quadro pequeno da Poki, celular deitado): HUD menor */
+@media (max-height: 430px) {
+  .placar { font-size: 11px; min-width: 100px; padding: 4px 6px; }
+  .placar li { line-height: 16px; }
+  .placar li:nth-child(n+5):not(.eu) { display: none; }
+  .placar li img { width: 12px; height: 12px; }
+  .relogio { font-size: 18px; padding: 2px 10px; min-width: 56px; }
+  #btPausa { width: 40px; height: 40px; font-size: 18px; }
+  .rotulo { font-size: 11px; }
+  .rotulo img { width: 16px; height: 16px; }
+  .painel-fim { padding: 12px; gap: 6px; }
+  .fim-cabeca img { width: 44px; height: 44px; }
+  .fim-cabeca h2 { font-size: 22px; }
+  .fim-placar { font-size: 13px; }
+  .fim-botoes .forte { font-size: 20px; padding: 10px; }
+  .fim-botoes .botao { padding: 8px 12px; font-size: 16px; }
+}

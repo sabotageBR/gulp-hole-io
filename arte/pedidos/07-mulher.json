@@ -1,0 +1,11 @@
+[
+ {
+  "modo": "editar",
+  "pular": true,
+  "id": "vida-mulher-b",
+  "imagens": [
+   "arte/refs/pessoa-04.jpg"
+  ],
+  "prompt": "Using the reference image as the exact character design (same face, hair, clothes, colors, proportions and toy style), draw a 3x3 grid of 9 separate full-body poses of this toy woman, wearing exactly the same lilac purple sweater, navy blue shorts and white shoes in all 9 poses (never change the colors of her clothes), every pose the same size, evenly spaced, wide empty space between them, each seen from the same high three-quarter camera as the reference image, in reading order: (1) walking to the left, left leg forward and right arm forward, (2) walking to the left, legs together in the middle of the step, (3) walking to the left, right leg forward and left arm forward, (4) walking to the left, legs together in the middle of the step, arms down, (5) running fast to the left, long stride, arms pumping, leaning forward, (6) running fast to the left, the other stride, both feet off the ground, (7) scared and screaming, facing the viewer, both arms raised high, mouth wide open, eyes wide, (8) waving hello with one hand raised high, facing the viewer, smiling, (9) tumbling and falling backwards, arms and legs flailing, surprised open mouth. Each pose whole and centered in its cell, never touching another pose or the image border, isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. Art style: bright stylized 3D toy diorama render, chunky rounded shapes like glossy painted wood and soft plastic toys, simple clean forms with little detail, saturated candy palette of sky blue, mint green, coral red, sunflower yellow and lilac on warm cream, soft warm sunlight from the upper left with gentle ambient occlusion and short soft shadows, crisp readable silhouettes, no text, no letters, no numbers, no logos, no signs with writing, no watermark."
+ }
+]

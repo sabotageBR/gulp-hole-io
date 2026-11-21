@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>Pothole Party.io</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="src/ui/kit.css">
+<link rel="stylesheet" href="src/ui/jogo.css">
+<!-- SDK do portal (a unica tag externa; o tools/empacotar.mjs troca a linha de baixo por alvo). -->
+<script src="/sdk/v1/plataforma-sdk.js"></script>
+<script type="importmap">{ "imports": { "three": "./vendor/three/three.module.js" } }</script>
+</head>
+<body>
+<div id="carregando" role="status"><div class="carga-caixa"><div class="logo">Pothole Party<span>.io</span></div><div class="barra"><i></i></div></div></div>
+<div id="palco"><canvas id="tela"></canvas></div>
+<div id="camada">
+  <div id="rotulos" aria-hidden="true"></div>
+  <div id="seta" class="seta" hidden aria-hidden="true"><img src="src/arte/icones/alvo.webp" alt=""></div>
+  <div id="joy" class="joy" hidden aria-hidden="true"><i></i></div>
+  <div id="topo" class="topo">
+    <div id="relogio" class="relogio">2:00</div>
+    <div id="barraSolo" class="barra-solo" hidden><i></i><span>0%</span></div>
+    <div id="vivos" class="vivos" hidden></div>
+  </div>
+  <ol id="placar" class="placar" aria-live="off"></ol>
+  <div id="aviso" class="aviso" aria-live="polite"></div>
+  <button id="btPausa" class="botao-icone" type="button" data-t-aria="pausa" style="position:absolute;right:12px;top:12px">❚❚</button>
+</div>
+<div id="fim" class="camada-ui fim" hidden>
+  <div class="painel painel-fim" role="dialog" aria-modal="true" aria-labelledby="fimTitulo">
+    <div class="fim-cabeca"><img id="fimIcone" src="src/arte/icones/trofeu.webp" alt=""><div><h2 id="fimTitulo">1st place!</h2><p id="fimSub" class="miudo"></p></div></div>
+    <ol id="fimPlacar" class="fim-placar"></ol>
+    <div class="xp"><span id="fimNivel">Lv 1</span><div class="xp-barra"><i id="fimXp"></i></div><span id="fimGanho">+0 XP</span></div>
+    <div id="fimNovo" class="novo" hidden><img id="fimNovoImg" src="src/arte/icones/presente.webp" alt=""><span id="fimNovoTxt"></span></div>
+    <div id="fimDesafio" class="desafio" hidden><img src="src/arte/icones/medalha.webp" alt=""><span id="fimDesafioTxt"></span></div>
+    <div class="escolhas">
+      <div id="escolhaModo" class="chips" role="radiogroup"></div>
+      <div id="escolhaMapa" class="chips" role="radiogroup"></div>
+    </div>
+    <div class="fim-botoes">
+      <button id="btJogar" class="botao forte" type="button" data-t="jogar">Play</button>
+      <button id="btSkins" class="botao botao-skin" type="button"><span id="btSkinsAro" class="aro"></span><span data-t="skins">Skins</span></button>
+      <button id="btMaior" class="botao" type="button" hidden>Start bigger</button>
+    </div>
+  </div>
+</div>
+<div id="skins" class="camada-ui" hidden>
+  <div class="painel painel-skins" role="dialog" aria-modal="true" aria-labelledby="skinsTitulo">
+    <h2 id="skinsTitulo" data-t="skins">Skins</h2>
+    <div id="gradeSkins" class="grade-skins rolavel"></div>
+    <button id="btSkinsOk" class="botao forte" type="button" data-t="pronto">Done</button>
+  </div>
+</div>
+<div id="menu" class="camada-ui" hidden>
+  <div class="painel" role="dialog" aria-modal="true" aria-labelledby="menuTitulo">
+    <h2 id="menuTitulo" data-t="pausa">Paused</h2>
+    <button id="btContinuar" class="botao forte" type="button" data-t="continuar">Continue</button>
+    <button id="btSom" class="botao" type="button" aria-pressed="true" data-t="som">Sound</button>
+  </div>
+</div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
